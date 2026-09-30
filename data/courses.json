@@ -1,0 +1,242 @@
+[
+    {
+        "course_id": 101,
+        "credit_hours": 3,
+        "description": "Introduction to Programming",
+        "enrolled": false,
+        "instructor": "Prof. Smith",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Basic programming concepts and problem solving",
+        "title": "Programming Fundamentals"
+    },
+    {
+        "course_id": 102,
+        "credit_hours": 3,
+        "description": "Discrete Mathematics for Computer Science",
+        "enrolled": false,
+        "instructor": "Prof. Johnson",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Logic, sets, relations, and functions",
+        "title": "Discrete Math"
+    },
+    {
+        "course_id": 103,
+        "credit_hours": 3,
+        "description": "Computer Organization and Architecture",
+        "enrolled": false,
+        "instructor": "Prof. Williams",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Digital logic, processor design, memory hierarchy",
+        "title": "Computer Architecture"
+    },
+    {
+        "course_id": 104,
+        "credit_hours": 3,
+        "description": "Advanced Programming Concepts",
+        "enrolled": false,
+        "instructor": "Prof. Brown",
+        "prerequisites": [
+            101
+        ],
+        "semester": "Spring",
+        "syllabus": "Object-oriented programming, data structures",
+        "title": "Advanced Programming"
+    },
+    {
+        "course_id": 105,
+        "credit_hours": 3,
+        "description": "Algorithms and Complexity",
+        "enrolled": false,
+        "instructor": "Prof. Davis",
+        "prerequisites": [
+            101,
+            102
+        ],
+        "semester": "Spring",
+        "syllabus": "Algorithm design and analysis",
+        "title": "Algorithms"
+    },
+    {
+        "course_id": 106,
+        "credit_hours": 3,
+        "description": "Operating Systems Principles",
+        "enrolled": false,
+        "instructor": "Prof. Wilson",
+        "prerequisites": [
+            101,
+            103
+        ],
+        "semester": "Spring",
+        "syllabus": "Process management, memory management",
+        "title": "Operating Systems"
+    },
+    {
+        "course_id": 107,
+        "credit_hours": 3,
+        "description": "Database Systems",
+        "enrolled": false,
+        "instructor": "Prof. Taylor",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Relational database design and SQL",
+        "title": "Databases"
+    },
+    {
+        "course_id": 108,
+        "credit_hours": 3,
+        "description": "Computer Networks",
+        "enrolled": false,
+        "instructor": "Prof. Anderson",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Network protocols and architectures",
+        "title": "Networks"
+    },
+    {
+        "course_id": 109,
+        "credit_hours": 3,
+        "description": "Software Engineering",
+        "enrolled": false,
+        "instructor": "Prof. Harris",
+        "prerequisites": [
+            101,
+            107
+        ],
+        "semester": "Spring",
+        "syllabus": "Software development lifecycle",
+        "title": "Software Engineering"
+    },
+    {
+        "course_id": 110,
+        "credit_hours": 3,
+        "description": "Web Application Development",
+        "enrolled": false,
+        "instructor": "Prof. Martinez",
+        "prerequisites": [
+            101,
+            107
+        ],
+        "semester": "Spring",
+        "syllabus": "Client-server web applications",
+        "title": "Web Development"
+    },
+    {
+        "course_id": 111,
+        "credit_hours": 3,
+        "description": "Artificial Intelligence Fundamentals",
+        "enrolled": false,
+        "instructor": "Prof. Lee",
+        "prerequisites": [
+            101,
+            102
+        ],
+        "semester": "Spring",
+        "syllabus": "Search algorithms, machine learning basics",
+        "title": "AI Fundamentals"
+    },
+    {
+        "course_id": 112,
+        "credit_hours": 3,
+        "description": "Computer Security",
+        "enrolled": false,
+        "instructor": "Prof. White",
+        "prerequisites": [
+            101,
+            108
+        ],
+        "semester": "Spring",
+        "syllabus": "Cryptography, network security",
+        "title": "Security"
+    },
+    {
+        "course_id": 113,
+        "credit_hours": 4,
+        "description": "Advanced data structures and algorithms",
+        "enrolled": false,
+        "instructor": "Prof. Adams",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Trees",
+        "title": "Data Structures"
+    },
+    {
+        "course_id": 114,
+        "credit_hours": 3,
+        "description": "Principles and techniques of software testing",
+        "enrolled": false,
+        "instructor": "Prof. Clark",
+        "prerequisites": [],
+        "semester": "Spring",
+        "syllabus": "Unit testing",
+        "title": "Software Testing"
+    },
+    {
+        "course_id": 115,
+        "credit_hours": 4,
+        "description": "Fundamentals of computer vision systems",
+        "enrolled": false,
+        "instructor": "Prof. Evans",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Image processing",
+        "title": "Computer Vision"
+    },
+    {
+        "course_id": 116,
+        "credit_hours": 3,
+        "description": "Introduction to NLP techniques",
+        "enrolled": false,
+        "instructor": "Prof. Green",
+        "prerequisites": [],
+        "semester": "Spring",
+        "syllabus": "Text processing",
+        "title": "Natural Language Processing"
+    },
+    {
+        "course_id": 117,
+        "credit_hours": 3,
+        "description": "Principles of blockchain and cryptocurrencies",
+        "enrolled": false,
+        "instructor": "Prof. King",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Distributed ledgers",
+        "title": "Blockchain Technology"
+    },
+    {
+        "course_id": 118,
+        "credit_hours": 4,
+        "description": "Processing and analyzing large datasets",
+        "enrolled": false,
+        "instructor": "Prof. Lopez",
+        "prerequisites": [],
+        "semester": "Spring",
+        "syllabus": "Hadoop",
+        "title": "Big Data Analytics"
+    },
+    {
+        "course_id": 119,
+        "credit_hours": 3,
+        "description": "Design of embedded computer systems",
+        "enrolled": false,
+        "instructor": "Prof. Nelson",
+        "prerequisites": [],
+        "semester": "Fall",
+        "syllabus": "Microcontrollers",
+        "title": "Embedded Systems"
+    },
+    {
+        "course_id": 120,
+        "credit_hours": 3,
+        "description": "Principles of user interface design",
+        "enrolled": false,
+        "instructor": "Prof. Parker",
+        "prerequisites": [],
+        "semester": "Spring",
+        "syllabus": "Usability testing",
+        "title": "Human-Computer Interaction"
+    }
+]

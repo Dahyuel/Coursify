@@ -1,0 +1,673 @@
+[
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 4.0,
+                    "grade": "A",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 102,
+                    "credit_hours": 3,
+                    "description": "Discrete Mathematics for Computer Science",
+                    "enrolled": false,
+                    "instructor": "Prof. Johnson",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Logic, sets, relations, and functions",
+                    "title": "Discrete Math"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 103,
+                    "credit_hours": 3,
+                    "description": "Computer Organization and Architecture",
+                    "enrolled": false,
+                    "instructor": "Prof. Williams",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Digital logic, processor design, memory hierarchy",
+                    "title": "Computer Architecture"
+                },
+                "grade": {
+                    "gpa": 2.0,
+                    "grade": "C",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 115,
+                    "credit_hours": 4,
+                    "description": "Fundamentals of computer vision systems",
+                    "enrolled": false,
+                    "instructor": "Prof. Evans",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Image processing",
+                    "title": "Computer Vision"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 1,
+                    "year": 2023
+                }
+            }
+        ],
+        "current_semester": "Fall 2023",
+        "email": "student1@university.edu",
+        "gpa": 3.0,
+        "max_credit_hours": 4,
+        "name": "Ahmed Dahy",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1001,
+        "username": "ahmeddahy"
+    },
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 2.0,
+                    "grade": "C",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 102,
+                    "credit_hours": 3,
+                    "description": "Discrete Mathematics for Computer Science",
+                    "enrolled": false,
+                    "instructor": "Prof. Johnson",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Logic, sets, relations, and functions",
+                    "title": "Discrete Math"
+                },
+                "grade": {
+                    "gpa": 1.0,
+                    "grade": "D",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 103,
+                    "credit_hours": 3,
+                    "description": "Computer Organization and Architecture",
+                    "enrolled": false,
+                    "instructor": "Prof. Williams",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Digital logic, processor design, memory hierarchy",
+                    "title": "Computer Architecture"
+                },
+                "grade": {
+                    "gpa": 0.0,
+                    "grade": "F",
+                    "semester": 1,
+                    "year": 2023
+                }
+            }
+        ],
+        "current_semester": "Fall 2023",
+        "email": "student3@university.edu",
+        "gpa": 1.0,
+        "max_credit_hours": 12,
+        "name": "Ahmed Gohary",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1003,
+        "username": "ahmedgohary"
+    },
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 102,
+                    "credit_hours": 3,
+                    "description": "Discrete Mathematics for Computer Science",
+                    "enrolled": false,
+                    "instructor": "Prof. Johnson",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Logic, sets, relations, and functions",
+                    "title": "Discrete Math"
+                },
+                "grade": {
+                    "gpa": 2.0,
+                    "grade": "C",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 103,
+                    "credit_hours": 3,
+                    "description": "Computer Organization and Architecture",
+                    "enrolled": false,
+                    "instructor": "Prof. Williams",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Digital logic, processor design, memory hierarchy",
+                    "title": "Computer Architecture"
+                },
+                "grade": {
+                    "gpa": 1.0,
+                    "grade": "D",
+                    "semester": 1,
+                    "year": 2023
+                }
+            }
+        ],
+        "current_semester": "Fall 2023",
+        "email": "student2@university.edu",
+        "gpa": 2.0,
+        "max_credit_hours": 12,
+        "name": "Ramez Emad",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1002,
+        "username": "ramezemad"
+    },
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 104,
+                    "credit_hours": 3,
+                    "description": "Advanced Programming Concepts",
+                    "enrolled": false,
+                    "instructor": "Prof. Brown",
+                    "prerequisites": [
+                        101
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Object-oriented programming, data structures",
+                    "title": "Advanced Programming"
+                },
+                "grade": {
+                    "gpa": 4.0,
+                    "grade": "A",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 105,
+                    "credit_hours": 3,
+                    "description": "Algorithms and Complexity",
+                    "enrolled": false,
+                    "instructor": "Prof. Davis",
+                    "prerequisites": [
+                        101,
+                        102
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Algorithm design and analysis",
+                    "title": "Algorithms"
+                },
+                "grade": {
+                    "gpa": 0.0,
+                    "grade": "F",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 106,
+                    "credit_hours": 3,
+                    "description": "Operating Systems Principles",
+                    "enrolled": false,
+                    "instructor": "Prof. Wilson",
+                    "prerequisites": [
+                        101,
+                        103
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Process management, memory management",
+                    "title": "Operating Systems"
+                },
+                "grade": {
+                    "gpa": 0.0,
+                    "grade": "F",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 1,
+                    "year": 2023
+                }
+            }
+        ],
+        "current_semester": "Spring 2024",
+        "email": "student4@university.edu",
+        "gpa": 1.75,
+        "max_credit_hours": 9,
+        "name": "Mostafa Hagras",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1004,
+        "username": "mostafahagras"
+    },
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 104,
+                    "credit_hours": 3,
+                    "description": "Advanced Programming Concepts",
+                    "enrolled": false,
+                    "instructor": "Prof. Brown",
+                    "prerequisites": [
+                        101
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Object-oriented programming, data structures",
+                    "title": "Advanced Programming"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 105,
+                    "credit_hours": 3,
+                    "description": "Algorithms and Complexity",
+                    "enrolled": false,
+                    "instructor": "Prof. Davis",
+                    "prerequisites": [
+                        101,
+                        102
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Algorithm design and analysis",
+                    "title": "Algorithms"
+                },
+                "grade": {
+                    "gpa": 4.0,
+                    "grade": "A",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 106,
+                    "credit_hours": 3,
+                    "description": "Operating Systems Principles",
+                    "enrolled": false,
+                    "instructor": "Prof. Wilson",
+                    "prerequisites": [
+                        101,
+                        103
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Process management, memory management",
+                    "title": "Operating Systems"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 4.0,
+                    "grade": "A",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 102,
+                    "credit_hours": 3,
+                    "description": "Discrete Mathematics for Computer Science",
+                    "enrolled": false,
+                    "instructor": "Prof. Johnson",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Logic, sets, relations, and functions",
+                    "title": "Discrete Math"
+                },
+                "grade": {
+                    "gpa": 4.0,
+                    "grade": "A",
+                    "semester": 1,
+                    "year": 2023
+                }
+            }
+        ],
+        "current_semester": "Spring 2024",
+        "email": "student5@university.edu",
+        "gpa": 3.5999999046325684,
+        "max_credit_hours": 6,
+        "name": "Carol Hany",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1005,
+        "username": "carolhany"
+    },
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 104,
+                    "credit_hours": 3,
+                    "description": "Advanced Programming Concepts",
+                    "enrolled": false,
+                    "instructor": "Prof. Brown",
+                    "prerequisites": [
+                        101
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Object-oriented programming, data structures",
+                    "title": "Advanced Programming"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 105,
+                    "credit_hours": 3,
+                    "description": "Algorithms and Complexity",
+                    "enrolled": false,
+                    "instructor": "Prof. Davis",
+                    "prerequisites": [
+                        101,
+                        102
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Algorithm design and analysis",
+                    "title": "Algorithms"
+                },
+                "grade": {
+                    "gpa": 2.0,
+                    "grade": "C",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 106,
+                    "credit_hours": 3,
+                    "description": "Operating Systems Principles",
+                    "enrolled": false,
+                    "instructor": "Prof. Wilson",
+                    "prerequisites": [
+                        101,
+                        103
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Process management, memory management",
+                    "title": "Operating Systems"
+                },
+                "grade": {
+                    "gpa": 1.0,
+                    "grade": "D",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 2.0,
+                    "grade": "C",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 102,
+                    "credit_hours": 3,
+                    "description": "Discrete Mathematics for Computer Science",
+                    "enrolled": false,
+                    "instructor": "Prof. Johnson",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Logic, sets, relations, and functions",
+                    "title": "Discrete Math"
+                },
+                "grade": {
+                    "gpa": 1.0,
+                    "grade": "D",
+                    "semester": 1,
+                    "year": 2023
+                }
+            }
+        ],
+        "current_semester": "Spring 2024",
+        "email": "student6@university.edu",
+        "gpa": 1.7999999523162842,
+        "max_credit_hours": 6,
+        "name": "Karim Amr",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1006,
+        "username": "karimamr"
+    },
+    {
+        "courses": [
+            {
+                "course": {
+                    "course_id": 101,
+                    "credit_hours": 3,
+                    "description": "Introduction to Programming",
+                    "enrolled": false,
+                    "instructor": "Prof. Smith",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Basic programming concepts and problem solving",
+                    "title": "Programming Fundamentals"
+                },
+                "grade": {
+                    "gpa": 4.0,
+                    "grade": "A",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 102,
+                    "credit_hours": 3,
+                    "description": "Discrete Mathematics for Computer Science",
+                    "enrolled": false,
+                    "instructor": "Prof. Johnson",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Logic, sets, relations, and functions",
+                    "title": "Discrete Math"
+                },
+                "grade": {
+                    "gpa": 0.0,
+                    "grade": "F",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 107,
+                    "credit_hours": 3,
+                    "description": "Database Systems",
+                    "enrolled": false,
+                    "instructor": "Prof. Taylor",
+                    "prerequisites": [],
+                    "semester": "Fall",
+                    "syllabus": "Relational database design and SQL",
+                    "title": "Databases"
+                },
+                "grade": {
+                    "gpa": 3.0,
+                    "grade": "B",
+                    "semester": 1,
+                    "year": 2023
+                }
+            },
+            {
+                "course": {
+                    "course_id": 104,
+                    "credit_hours": 3,
+                    "description": "Advanced Programming Concepts",
+                    "enrolled": false,
+                    "instructor": "Prof. Brown",
+                    "prerequisites": [
+                        101
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Object-oriented programming, data structures",
+                    "title": "Advanced Programming"
+                },
+                "grade": {
+                    "gpa": 0.0,
+                    "grade": "F",
+                    "semester": 2,
+                    "year": 2024
+                }
+            },
+            {
+                "course": {
+                    "course_id": 110,
+                    "credit_hours": 3,
+                    "description": "Web Application Development",
+                    "enrolled": false,
+                    "instructor": "Prof. Martinez",
+                    "prerequisites": [
+                        101,
+                        107
+                    ],
+                    "semester": "Spring",
+                    "syllabus": "Client-server web applications",
+                    "title": "Web Development"
+                },
+                "grade": {
+                    "gpa": 2.0,
+                    "grade": "C",
+                    "semester": 2,
+                    "year": 2024
+                }
+            }
+        ],
+        "current_semester": "Spring 2024",
+        "email": "student7@university.edu",
+        "gpa": 1.7999999523162842,
+        "max_credit_hours": 6,
+        "name": "Mostafa Mohamed",
+        "password": "2992457363794458960",
+        "role": "S",
+        "student_id": 1007,
+        "username": "mostafamohamed"
+    }
+]
